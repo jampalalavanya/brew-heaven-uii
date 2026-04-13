@@ -36,4 +36,4 @@ This project is created to improve UI/UX design skills and showcase a real-world
 Made with ❤️ by Lavanya  
 
 #FutureInterns
-
+https://www.figma.com/design/0ZPfyk20f09ZAMElGuf984/Untitled?node-id=0-1&t=GpsHLKy2iUBqtk5E-1
